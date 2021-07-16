@@ -29,7 +29,7 @@
 <img src="https://user-images.githubusercontent.com/69875036/122603166-5bb9e980-d04a-11eb-9068-555bd1693688.png" alt="drawing" width="800"/>
 <img src="https://user-images.githubusercontent.com/69875036/122603262-742a0400-d04a-11eb-8e9b-9787af204cdb.png" alt="drawing" width="550"/>
 
-<h2>#4 Empresa e Contratos </h2>
+<h2>#4Funcionario </h2>
 
 
 <img src="https://user-images.githubusercontent.com/69875036/123142908-58e73c00-d430-11eb-8a3c-91cba696ca48.png" alt="drawing" width="550"/>
@@ -37,6 +37,11 @@
 <img src="https://user-images.githubusercontent.com/69875036/123143237-ba0f0f80-d430-11eb-988c-d454b06b7d47.png" alt="drawing" width="800"/>
 
 
+<h2>#5 EX20Empregado </h2>
 
+
+<img src="https://user-images.githubusercontent.com/69875036/126000185-bbd68abd-1b27-4a57-9652-9e9897743612.png" alt="drawing" width="800"/>
+
+<img src="https://user-images.githubusercontent.com/69875036/125999668-e8daf0b2-7370-4893-af64-aafe0fb9c91c.png" alt="drawing" width="550"/>
 
 
